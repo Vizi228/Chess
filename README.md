@@ -41,7 +41,7 @@ Ensure you have Python installed on your system. You can download it from [Pytho
 
 ### 📷 Screenshot
 
-![img.png](images/screenshot.png)
+![img.png](images/image.png)
 
 ## 💬 Contact
 
