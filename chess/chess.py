@@ -7,6 +7,7 @@ from chess.classes.cell import Cell
 class ChessEngine:
     def __init__(self, start_board, kings, pieces):
         pygame.init()
+        pygame.display.set_caption('Chess')
         screen_size = Board.DIMENSION * Cell.SIZE
         self.clock = pygame.time.Clock()
         self.screen = pygame.display.set_mode((screen_size, screen_size))
